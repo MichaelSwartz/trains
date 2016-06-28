@@ -8,5 +8,5 @@ To run:
 
 Data from a live-updating CSV at http://developer.mbta.com/lib/gtrtfs/Departures.csv
 
-Info on the MBTA departure board feed at: http://www.mbta.com/uploadedfiles/Departure%20Board%20Feed.pdf
+Info on the MBTA departure board feed at http://www.mbta.com/uploadedfiles/Departure%20Board%20Feed.pdf
 
